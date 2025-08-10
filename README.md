@@ -27,6 +27,4 @@ I craft solutions in **Python**, **C/C++**, and full-stack **Web Development**, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-Diwaniya-devart&layout=compact&theme=radical)  
 
 ---
-socialmedia: @talaldevart
----
 💡 *"Code. Compile. Conquer."*
